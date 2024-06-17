@@ -1,6 +1,6 @@
 {
   "name": "event-source-polyfill",
-  "repo": "yaffle/eventsource",
+  "repo": "42dot/EventSourcePollyFill",
   "description": "a polyfill for http://www.w3.org/TR/eventsource/",
   "version": "1.0.31",
   "keywords": [
