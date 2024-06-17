@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Yaffle/EventSource.git"
+    "url": "git://github.com/42dot/EventSourcePollyFill.git"
   },
   "keywords": [
     "sse",
